@@ -5,7 +5,6 @@ namespace Observer
     public struct Temperature
     {
         private decimal degrees;
-
         private DateTime date;
 
         public Temperature(decimal temperature, DateTime dateAndTime)
